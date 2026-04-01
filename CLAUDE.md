@@ -61,7 +61,11 @@ com.tasksyncboard
 - Flyway
 - 기타 미지정 의존성
 
-## 6. 빌드/실행 명령어
+## 6. Claude Code 협업 규칙
+
+- **git commit/push는 사용자가 직접 처리한다.** Claude는 파일 수정만 하고, `git add / commit / push` 명령을 자동으로 실행하지 않는다.
+
+## 7. 빌드/실행 명령어
 
 ```bash
 # 빌드
